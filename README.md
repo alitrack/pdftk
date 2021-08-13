@@ -1,6 +1,6 @@
 # Alitrack PDF ToolKit
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/alitrack/pdftk)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/alitrack/pdftk/main)
 
 
 ## WeasyPrint
